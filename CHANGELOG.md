@@ -1,6 +1,8 @@
 ## 0.8.2
 
-- Nettoyage du bundle et renommage du vendor en `greeneffect`.
-- Ajout i18n (FR/EN/DE) pour le badge de restriction en liste.
-- Ajout d’un style CSS backend pour le badge.
+- Restrict `tl_content` visibility in the Contao back end based on back end user groups (admins excluded).
+- Add translatable “_restricted_” badge in listings (FR/EN/DE) + backend CSS styling.
+- Publish-ready package rename/alignment to greeneffect/content-visibility with updated metadata.
+- Add EN/FR documentation structure (`docs/`) and screenshot placeholders.
+- Add PHPUnit setup and unit tests for the badge renderer; repo hygiene files (SECURITY, COC, NOTICE, etc.).
 
