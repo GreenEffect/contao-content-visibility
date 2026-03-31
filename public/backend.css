@@ -1,0 +1,13 @@
+.content-visibility-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 6px;
+  border-radius: 10px;
+  font-size: 11px;
+  line-height: 16px;
+  color: #8e1b10;
+  background: #fdecea;
+  border: 1px solid #f5c6cb;
+  vertical-align: baseline;
+}
+
