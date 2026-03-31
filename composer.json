@@ -1,5 +1,5 @@
 {
-    "name": "greeneffect/content-visibility",
+    "name": "greeneffect/contao-content-visibility",
     "description": "Restrict tl_content visibility in Contao back end based on back end user groups.",
     "type": "contao-bundle",
     "version": "0.8.2",
@@ -16,7 +16,7 @@
         "symfony",
         "tl_content"
     ],
-    "homepage": "https://github.com/GreenEffect/content-visibility",
+    "homepage": "https://github.com/GreenEffect/contao-content-visibility",
     "authors": [
         {
             "name": "Green Effect",
@@ -24,8 +24,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/GreenEffect/content-visibility/issues",
-        "source": "https://github.com/GreenEffect/content-visibility"
+        "issues": "https://github.com/GreenEffect/contao-content-visibility/issues",
+        "source": "https://github.com/GreenEffect/contao-content-visibility"
     },
     "require": {
         "php": "^8.1",
