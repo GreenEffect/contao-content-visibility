@@ -2,7 +2,6 @@
     "name": "greeneffect/contao-content-visibility",
     "description": "Restrict tl_content visibility in Contao back end based on back end user groups.",
     "type": "contao-bundle",
-    "version": "0.8.2",
     "license": "CC-BY-SA-4.0",
     "keywords": [
         "contao",

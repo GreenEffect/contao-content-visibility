@@ -7,11 +7,11 @@
 ### Using Composer (Packagist)
 
 ```bash
-composer require greeneffect/content-visibility
+composer require greeneffect/contao-content-visibility
 ```
 
 ### Using Contao Manager
-- Add `greeneffect/content-visibility` and run the update.
+- Add `greeneffect/contao-content-visibility` and run the update.
 
 ### Database migration
 

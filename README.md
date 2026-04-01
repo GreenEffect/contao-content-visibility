@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.svg" width="140" height="140" alt="Contao Content Visibility">
+</p>
+
 ## Contao Content Visibility
 
 Contao 5 bundle to **restrict the visibility of content elements (`tl_content`) in the back end** based on the current back end user's groups.
@@ -19,7 +23,7 @@ Contao 5 bundle to **restrict the visibility of content elements (`tl_content`) 
 ### Using Composer (Packagist)
 
 ```bash
-composer require greeneffect/content-visibility
+composer require greeneffect/contao-content-visibility
 ```
 
 ### Using Contao Manager
