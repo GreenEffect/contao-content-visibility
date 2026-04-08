@@ -1,3 +1,7 @@
+## 1.1.0
+
+- Lower documented minimum Contao version to **5.3+** (aligned with `composer.json`).
+
 ## 1.0.0
 
 - Rename project/package to `greeneffect/contao-content-visibility` and align repository metadata.
