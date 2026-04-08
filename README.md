@@ -70,7 +70,7 @@ Users belonging to the selected groups will no longer see the element in `tl_con
 
 - The filtering is **back end only** and targets `tl_content`.
 - The front end output/publication is not affected.
-- Compatible with **Contao 5.5+** / **PHP 8.1+**.
+- Compatible with **Contao 5.3+** / **PHP 8.1+**.
 - Namespace: `Greeneffect\ContaoContentVisibility`.
 
 ---

@@ -2,7 +2,7 @@
 
 ### Requirements
 - **PHP**: 8.1+
-- **Contao**: 5.5+
+- **Contao**: 5.3+
 
 ### Using Composer (Packagist)
 

@@ -2,7 +2,7 @@
 
 ### Prérequis
 - **PHP**: 8.1+
-- **Contao**: 5.5+
+- **Contao**: 5.3+
 
 ### Via Composer (Packagist)
 

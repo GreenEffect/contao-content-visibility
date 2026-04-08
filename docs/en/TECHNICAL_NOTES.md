@@ -11,6 +11,6 @@ The `hide_from_groups` field stores a Contao-serialized list of back end group I
 The listing filter uses a `LIKE` match on the serialized form `s:X:"ID";`.
 
 ### Compatibility
-- **Contao**: 5.5+
+- **Contao**: 5.3+
 - **PHP**: 8.1+
 

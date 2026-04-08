@@ -70,7 +70,7 @@ Les membres des groupes sélectionnés ne verront plus cet élément dans les li
 
 - Le filtrage s'applique uniquement dans le back-office, sur `tl_content`.
 - Le contenu reste publié en front-office normalement.
-- Compatible avec **Contao 5.5+** / **PHP 8.1+**.
+- Compatible avec **Contao 5.3+** / **PHP 8.1+**.
 - Namespace : `Greeneffect\ContaoContentVisibility`.
 
 ---

@@ -11,6 +11,6 @@ Le champ `hide_from_groups` stocke une liste sérialisée (Contao) d’IDs de gr
 Le filtrage côté liste utilise un `LIKE` qui matche la forme sérialisée `s:X:"ID";`.
 
 ### Compatibilité
-- **Contao**: 5.5+
+- **Contao**: 5.3+
 - **PHP**: 8.1+
 
