@@ -5,3 +5,6 @@ services:
 
     Greeneffect\ContaoContentVisibility\EventListener\:
         resource: '../src/EventListener/'
+
+    Greeneffect\ContaoContentVisibility\Ui\:
+        resource: '../src/Ui/'
